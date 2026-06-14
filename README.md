@@ -10,28 +10,13 @@
 <br/>
 
 <!-- Social Badges -->
-<div style="white-space: nowrap; overflow-x: auto;">
-  <a href="https://sahildev.odoo.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=web&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/sahil-w712">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/__sahil_.27">
-    <img src="https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=instagram" />
-  </a>
-</div>
-
-<br/>
+<a href="https://sahilw.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square" /></a>
+<a href="https://linkedin.com/in/sahil-w712"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sahilwadhwani712@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/__sahil_.27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <!-- Stats Cards -->
-![GitHub Views](https://komarev.com/ghpvc/?username=danielex1999&color=00a0a0&style=plastic)
+![GitHub Views](https://komarev.com/ghpvc/?username=Lum1104&color=00a0a0&style=plastic)
 
 </div>
 
@@ -39,6 +24,7 @@
 ## 🎯 About Me
 
 <p align="right">
+
   <img 
     src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
     width="220"
@@ -50,67 +36,27 @@ Passionate about AI & building tech that truly helps people. expertise in **Kotl
 
 - 🔭 Working on innovative projects with **Kotlin** & **AI**
 - 🌱 Continuously learning **new technologies** and **best practices**
-- 💡 Passionate about **open-source** contribution
+- 💡 Enthusiastic about **open-source** contribution
 - 🎓 Part of the **GitHub Developer Programme**
 - ⚡ Building scalable and user-centric applications
-- 🎮 Interested in **game development** with Unreal Engine
 
 
 ## 🚀 My Tech Arsenal
 
 <div align="center">
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin homepage link" width="65" height="65" />
-  </a>
-  <!-- Java -->
-  <a href="https://java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java homepage link" width="65" height="65" />
-  </a>
-  <!-- Ktor -->
-  <a href="https://ktor.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ktor" alt="Ktor framework link" width="65" height="65" />
-  </a>
-  <!-- Python -->
-  <a href="https://python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python homepage link" width="65" height="65" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub link" width="65" height="65" />
-  </a>
-  <!-- React -->
-  <a href="https://react.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React documentation link" width="65" height="65" />
-  </a>
-  <!-- Docker -->
-  <a href="https://docker.com" target="_blank">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker homepage link" width="65" height="65" />
-  </a>
-  <!-- AI (Illustrator / Adobe) -->
-  <a href="https://adobe.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator link" width="65" height="65" />
-  </a>
-  <!-- Dev.to -->
-  <a href="https://dev.to" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to link" width="65" height="65" />
-  </a>
-  <!-- Red Hat -->
-  <a href="https://redhat.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat homepage link" width="65" height="65" />
-  </a>
-  <!-- Apple -->
-  <a href="https://apple.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=apple" alt="Apple homepage link" width="65" height="65" />
-  </a>
-  <!-- Neovim -->
-  <a href="https://neovim.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim text editor link" width="65" height="65" />
-  </a>
-  <!-- Android Studio -->
-  <a href="https://android.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio download link" width="65" height="65" />
-  </a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="64" height="64"></a>&nbsp;
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="64" height="64"></a>&nbsp;
+  <a href="https://ktor.io"><img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="64" height="64"></a>&nbsp;
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="64" height="64"></a>&nbsp;
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="64" height="64"></a>&nbsp;
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" width="64" height="64"></a>&nbsp;
+  <a href="https://www.docker.com"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64"></a>&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="64" height="64"></a>&nbsp;
+  <a href="https://dev.to"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="64" height="64"></a>&nbsp;
+  <a href="https://www.redhat.com"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" width="64" height="64"></a>&nbsp;
+  <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="64" height="64"></a>&nbsp;
+  <a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="64" height="64"></a>&nbsp;
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="64" height="64"></a>
 </div>
 
 ---
@@ -120,12 +66,21 @@ Passionate about AI & building tech that truly helps people. expertise in **Kotl
 <div align="center">
 
 <img height="200em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Lum1104&theme=transparent"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-dev7&theme=transparent"
 alt="GitHub Streak"/>
 
 </div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lum1104&theme=radical&hide_border=true&hide_title=true&theme=transparent" alt="Activity Graph"/>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph
+?username=Lum1104
+&bg_color=00000000
+&color=7aa2f7
+&line=7aa2f7
+&point=00000000
+&hide_border=true
+&hide_title=true"
+alt="Activity Graph"/>
 
 </div>
 
@@ -136,7 +91,7 @@ alt="GitHub Streak"/>
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack |
 |-----------|--------------|--------------|
-| **Utilix Alpha** | more than 70+ screens build by single dev | Kotlin, Ktor, jetpaack |
+| **Utilix** | more than 70+ screens build by a single dev | Kotlin, Ktor, jetpack |
 | **AI Assistant** | Machine learning-powered chatbot | Python, TensorFlow, React |
 | **Aureo Media Player** | advance audio/video player | exoplayer, material expressive |
 
@@ -156,9 +111,9 @@ alt="GitHub Streak"/>
 <div>
 
 - 🏅 **GitHub Developer Programme Member**
-- ⭐ **Google Student Ambassadar**
+- ⭐ **Google Student Ambassador**
 - 🚀 **Graduation Completed(2026)**
 - 📚 **Continuous Learner** (Machine Learning, Android apps, web)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
