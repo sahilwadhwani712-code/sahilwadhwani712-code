@@ -27,7 +27,7 @@
 
   <img 
     src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
-    width="220"
+    width="35%"
     align="right"
   />
 </p>
@@ -49,7 +49,7 @@ Passionate about AI & building tech that truly helps people. expertise in **Kotl
   <a href="https://ktor.io"><img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="64" height="64"></a>&nbsp;
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="64" height="64"></a>&nbsp;
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="64" height="64"></a>&nbsp;
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" width="64" height="64"></a>&nbsp;
+  <a href="https://react.dev"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64"></a>&nbsp;
   <a href="https://www.docker.com"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64"></a>&nbsp;
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="64" height="64"></a>&nbsp;
   <a href="https://dev.to"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="64" height="64"></a>&nbsp;
@@ -72,18 +72,8 @@ alt="GitHub Streak"/>
 </div>
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph
-?username=Lum1104
-&bg_color=00000000
-&color=7aa2f7
-&line=7aa2f7
-&point=00000000
-&hide_border=true
-&hide_title=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Lum1104&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=00000000&hide_border=true&hide_title=true"
 alt="Activity Graph"/>
-
-</div>
-
 
 ## 🏆 Featured Projects
 
